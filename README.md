@@ -1,0 +1,1 @@
+This is Curtice’s first git project!
